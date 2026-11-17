@@ -10,8 +10,8 @@ A moonrise photographed with a 400 mm telephoto lens on a windy day. Wind-induce
 
 The sequence was aligned in Futura Time Lapse 3.5 using **TxTy (Shift only)**. The lower part of the images, containing high-contrast trees moving in the wind, was excluded from alignment so that the moving branches would not interfere.
 
-- [Watch before alignment](media/moonrise-mont-blanc/before.mp4)
-- [Watch after alignment](media/moonrise-mont-blanc/after.mp4)
+- [Watch before alignment](https://youtu.be/XO90bjNTVys)
+- [Watch after alignment](https://youtu.be/5vJCiEr1bu4)
 
 ## Case template
 
