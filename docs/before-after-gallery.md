@@ -8,7 +8,7 @@ The gallery is just getting started. Have a sequence to share? [Submit an alignm
 
 A moonrise photographed with a 400 mm telephoto lens on a windy day. Wind-induced camera shake is especially noticeable at this focal length.
 
-The sequence was aligned in Futura Time Lapse 3.5 using **TxTy (Shift only)**. The lower part of the images, containing high-contrast trees moving in the wind, was excluded from alignment so that the moving branches would not interfere.
+The sequence was aligned in Futura Time Lapse 4.0 using **TxTy (Shift only)**. This is a challenging case as cloud are filling a significant part of most frames.
 
 - [Watch before alignment](https://youtu.be/XO90bjNTVys)
 - [Watch after alignment](https://youtu.be/0CO_lkMVPiA)
