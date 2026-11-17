@@ -1,4 +1,4 @@
-# Before and after gallery
+# Real Cases: Before and after gallery
 
 Real time-lapse sequences showing how image alignment changes the result. Each case describes the problem, the approach used and any limitations.
 
@@ -8,7 +8,7 @@ The gallery is just getting started. Have a sequence to share? [Submit an alignm
 
 A moonrise photographed with a 400 mm telephoto lens on a windy day. Wind-induced camera shake is especially noticeable at this focal length.
 
-The sequence was aligned in Futura Time Lapse 3.5 RC using **TxTy (Shift only)**. The lower part of the images, containing high-contrast trees moving in the wind, was excluded from alignment so that the moving branches would not interfere.
+The sequence was aligned in Futura Time Lapse 3.5 using **TxTy (Shift only)**. The lower part of the images, containing high-contrast trees moving in the wind, was excluded from alignment so that the moving branches would not interfere.
 
 - [Watch before alignment](media/moonrise-mont-blanc/before.mp4)
 - [Watch after alignment](media/moonrise-mont-blanc/after.mp4)
