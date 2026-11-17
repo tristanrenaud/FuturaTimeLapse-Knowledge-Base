@@ -8,6 +8,7 @@ Community knowledge base to help photographers **align still images** when build
 - [Common problems and fixes](docs/problems-and-fixes.md)
 - [Shooting for easy alignment](docs/shooting-for-easy-alignment.md)
 - [Use cases](docs/use-cases.md)
+- [Before and after gallery](docs/before-after-gallery.md)
 
 ## Contribute
 
