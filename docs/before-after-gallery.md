@@ -4,6 +4,15 @@ Real time-lapse sequences showing how image alignment changes the result. Each c
 
 The gallery is just getting started. Have a sequence to share? [Submit an alignment case](../CONTRIBUTING.md#share-a-before-and-after-case).
 
+## Moonrise over Mont Blanc
+
+A moonrise photographed with a 400 mm telephoto lens on a windy day. Wind-induced camera shake is especially noticeable at this focal length.
+
+The sequence was aligned in Futura Time Lapse 3.5 RC using **TxTy (Shift only)**. The lower part of the images, containing high-contrast trees moving in the wind, was excluded from alignment so that the moving branches would not interfere.
+
+- [Watch before alignment](media/moonrise-mont-blanc/before.mp4)
+- [Watch after alignment](media/moonrise-mont-blanc/after.mp4)
+
 ## Case template
 
 Copy this template when adding a case. Include what you know; do not invent missing details.
